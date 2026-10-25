@@ -1,0 +1,2 @@
+Hello from Virtual Machine 1!
+This file (transfer.txt) is created for Cloud Computing Practical Experiment 5 to demonstrate secure file transfer using SCP over SSH.
